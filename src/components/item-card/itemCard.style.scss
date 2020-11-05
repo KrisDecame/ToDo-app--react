@@ -1,0 +1,13 @@
+.item-card {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-wrap: wrap;
+    padding: 0 20vw;
+
+    h3 {
+        width: 50%;
+        text-align: left;
+        overflow-wrap: break-word;
+    }
+}
